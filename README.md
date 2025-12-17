@@ -15,3 +15,5 @@ Interactive ML dashboard for predicting deposit rate responses.
 pip install -r requirements.txt
 streamlit run streamlit_dashboard.py
 ```
+## Demo
+![dashboard_demo](https://github.com/user-attachments/assets/3adefe2e-d2db-4712-95cb-a404f2d1d508)
