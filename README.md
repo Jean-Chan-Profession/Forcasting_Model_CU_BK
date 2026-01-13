@@ -2,7 +2,7 @@
 
 Interactive ML dashboard for predicting deposit rate responses.
 
-**Live Demo**: https://forcasting-model-cu-bk.streamlit.app
+**Live Demo**: https://forecasting-model-cu-bk.streamlit.app
 
 ## Features
 - Predict Credit Union vs Bank rate changes
